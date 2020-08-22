@@ -6,10 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-eventually.git"
   },
-  "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
-  },
+  "author": "Anubhav Srivastava <anubhav.srivastava00@gmail.com>",
   "dependencies": {
     "gatsby": "^2.20.2",
     "gatsby-plugin-manifest": "^2.3.1",
@@ -44,5 +41,6 @@
   "bugs": {
     "url": "https://github.com/anubhavsrivastava/gatsby-starter-eventually/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-eventually#readme"
+  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-eventually#readme",
+  "main": "config.js"
 }
