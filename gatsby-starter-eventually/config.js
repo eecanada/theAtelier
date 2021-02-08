@@ -31,7 +31,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:canada.eder@gmail.com',
+      url: 'mailto:hello@theatelier.io',
     },
   ],
 };
